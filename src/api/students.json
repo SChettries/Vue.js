@@ -1,0 +1,28 @@
+{
+  "students": [
+    {
+      "ID": 1,
+      "Name": "John Doe",
+      "Course": "Computer Science",
+      "Email": "johndoe@example.com",
+      "Phone": "123-456-7890",
+      "Created At": "2024-02-23T08:00:00Z"
+    },
+    {
+      "ID": 2,
+      "Name": "Jane Smith",
+      "Course": "Engineering",
+      "Email": "janesmith@example.com",
+      "Phone": "987-654-3210",
+      "Created At": "2024-02-22T10:30:00Z"
+    },
+    {
+      "ID": 3,
+      "Name": "Alice Johnson",
+      "Course": "Mathematics",
+      "Email": "alicejohnson@example.com",
+      "Phone": "555-123-4567",
+      "Created At": "2024-02-21T15:45:00Z"
+    }
+  ]
+}
